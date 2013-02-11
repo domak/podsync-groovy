@@ -1,0 +1,644 @@
+<?xml version="1.0"?>
+<feed xmlns:idx="urn:atom-extension:indexing" xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns:gr="http://www.google.com/schemas/reader/atom/" xmlns="http://www.w3.org/2005/Atom" idx:index="no"
+      gr:dir="ltr"><!--
+Content-type: Preventing XSRF in IE.
+
+-->
+    <generator uri="http://www.google.com/reader">Google Reader</generator>
+    <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+    <title>La chronique de Daniel Morin</title>
+    <subtitle type="html">La chronique de Daniel Morin</subtitle>
+    <gr:continuation>CMT9-pr57aQC</gr:continuation>
+    <link rel="self"
+          href="http://www.google.com/reader/atom/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml"/>
+    <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+    <updated>2010-11-26T12:22:52Z</updated>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1290774172295">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-26.11.2010-ITEMA_20254864-0.mp3">
+            tag:google.com,2005:reader/item/3871398e9aa4b28c
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 26.11.2010</title>
+        <published>2010-11-26T10:05:00Z</published>
+        <updated>2010-11-26T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-26.11.2010-ITEMA_20254864-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101126/l4=/http://media.radiofrance-podcast.net/podcast09/10906-26.11.2010-ITEMA_20254864-0.mp3"
+              type="audio/mpeg" length="6938752"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:07:09 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1290688924523">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-25.11.2010-ITEMA_20254677-0.mp3">
+            tag:google.com,2005:reader/item/55cae078ff233f22
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 25.11.2010</title>
+        <published>2010-11-25T10:05:00Z</published>
+        <updated>2010-11-25T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-25.11.2010-ITEMA_20254677-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101125/l4=/http://media.radiofrance-podcast.net/podcast09/10906-25.11.2010-ITEMA_20254677-0.mp3"
+              type="audio/mpeg" length="6039680"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:06:13 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1290601198920">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-24.11.2010-ITEMA_20254495-0.mp3">
+            tag:google.com,2005:reader/item/027b81f1f76c1854
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 24.11.2010</title>
+        <published>2010-11-24T10:05:00Z</published>
+        <updated>2010-11-24T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-24.11.2010-ITEMA_20254495-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101124/l4=/http://media.radiofrance-podcast.net/podcast09/10906-24.11.2010-ITEMA_20254495-0.mp3"
+              type="audio/mpeg" length="5187712"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:05:20 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1290515259812">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-23.11.2010-ITEMA_20254306-0.mp3">
+            tag:google.com,2005:reader/item/aa653fa46412fdb9
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 23.11.2010</title>
+        <published>2010-11-23T10:05:00Z</published>
+        <updated>2010-11-23T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-23.11.2010-ITEMA_20254306-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101123/l4=/http://media.radiofrance-podcast.net/podcast09/10906-23.11.2010-ITEMA_20254306-0.mp3"
+              type="audio/mpeg" length="4464768"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:04:34 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <gr:likingUser>15596853698718548450</gr:likingUser>
+        <gr:likingUser>05031259386898384152</gr:likingUser>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1290429936937">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-22.11.2010-ITEMA_20254104-0.mp3">
+            tag:google.com,2005:reader/item/f5dd730a2187ac61
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 22.11.2010</title>
+        <published>2010-11-22T10:05:00Z</published>
+        <updated>2010-11-22T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-22.11.2010-ITEMA_20254104-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101122/l4=/http://media.radiofrance-podcast.net/podcast09/10906-22.11.2010-ITEMA_20254104-0.mp3"
+              type="audio/mpeg" length="4423808"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:04:32 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1290423036873">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-19.11.2010-ITEMA_20253704-0.mp3">
+            tag:google.com,2005:reader/item/13d8cf4e725ed2f3
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 19.11.2010</title>
+        <published>2010-11-19T10:05:00Z</published>
+        <updated>2010-11-19T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-19.11.2010-ITEMA_20253704-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101119/l4=/http://media.radiofrance-podcast.net/podcast09/10906-19.11.2010-ITEMA_20253704-0.mp3"
+              type="audio/mpeg" length="4862080"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:04:59 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1290088141050">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-18.11.2010-ITEMA_20253512-0.mp3">
+            tag:google.com,2005:reader/item/17d5f2011391467a
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 18.11.2010</title>
+        <published>2010-11-18T10:05:00Z</published>
+        <updated>2010-11-18T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-18.11.2010-ITEMA_20253512-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101118/l4=/http://media.radiofrance-podcast.net/podcast09/10906-18.11.2010-ITEMA_20253512-0.mp3"
+              type="audio/mpeg" length="5185664"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:05:20 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1289997480077">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-17.11.2010-ITEMA_20253316-0.mp3">
+            tag:google.com,2005:reader/item/599d0cc78ca07189
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 17.11.2010</title>
+        <published>2010-11-17T10:05:00Z</published>
+        <updated>2010-11-17T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-17.11.2010-ITEMA_20253316-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101117/l4=/http://media.radiofrance-podcast.net/podcast09/10906-17.11.2010-ITEMA_20253316-0.mp3"
+              type="audio/mpeg" length="6125696"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:06:18 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1289909931067">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-16.11.2010-ITEMA_20253130-0.mp3">
+            tag:google.com,2005:reader/item/ccf18610c412c308
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 16.11.2010</title>
+        <published>2010-11-16T10:05:00Z</published>
+        <updated>2010-11-16T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-16.11.2010-ITEMA_20253130-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101116/l4=/http://media.radiofrance-podcast.net/podcast09/10906-16.11.2010-ITEMA_20253130-0.mp3"
+              type="audio/mpeg" length="5578880"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">durée : 00:05:44 - La
+            chronique de Daniel Morin -
+        </summary>
+        <author gr:unknown-author="true">
+            <name>(author unknown)</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1289825516073">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-15.11.2010-ITEMA_20252934-0.mp3">
+            tag:google.com,2005:reader/item/e161d1b80aaf8623
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 15.11.2010</title>
+        <published>2010-11-15T14:14:00Z</published>
+        <updated>2010-11-15T14:14:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-15.11.2010-ITEMA_20252934-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101115/l4=/http://media.radiofrance-podcast.net/podcast09/10906-15.11.2010-ITEMA_20252934-0.mp3"
+              type="audio/mpeg" length="5814400"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1289566220308">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-12.11.2010-ITEMA_20252545-0.mp3">
+            tag:google.com,2005:reader/item/9762b9c1e150a195
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 12.11.2010</title>
+        <published>2010-11-12T10:05:00Z</published>
+        <updated>2010-11-12T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-12.11.2010-ITEMA_20252545-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101112/l4=/http://media.radiofrance-podcast.net/podcast09/10906-12.11.2010-ITEMA_20252545-0.mp3"
+              type="audio/mpeg" length="6320256"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1289478367152">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-11.11.2010-ITEMA_20252359-0.mp3">
+            tag:google.com,2005:reader/item/9b2c6ebe31579c3b
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 11.11.2010</title>
+        <published>2010-11-11T10:05:00Z</published>
+        <updated>2010-11-11T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-11.11.2010-ITEMA_20252359-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101111/l4=/http://media.radiofrance-podcast.net/podcast09/10906-11.11.2010-ITEMA_20252359-0.mp3"
+              type="audio/mpeg" length="5746816"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1289403658264">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-10.11.2010-ITEMA_20252178-0.mp3">
+            tag:google.com,2005:reader/item/5273ddcafc40ae2b
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 10.11.2010</title>
+        <published>2010-11-10T10:05:00Z</published>
+        <updated>2010-11-10T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-10.11.2010-ITEMA_20252178-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101110/l4=/http://media.radiofrance-podcast.net/podcast09/10906-10.11.2010-ITEMA_20252178-0.mp3"
+              type="audio/mpeg" length="5263488"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1289303748389">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-09.11.2010-ITEMA_20251974-0.mp3">
+            tag:google.com,2005:reader/item/0361ed60ee151f64
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 09.11.2010</title>
+        <published>2010-11-09T10:05:00Z</published>
+        <updated>2010-11-09T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-09.11.2010-ITEMA_20251974-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101109/l4=/http://media.radiofrance-podcast.net/podcast09/10906-09.11.2010-ITEMA_20251974-0.mp3"
+              type="audio/mpeg" length="5384320"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1289218258620">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-08.11.2010-ITEMA_20251770-0.mp3">
+            tag:google.com,2005:reader/item/5f287334ed8945aa
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 08.11.2010</title>
+        <published>2010-11-08T10:05:00Z</published>
+        <updated>2010-11-08T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-08.11.2010-ITEMA_20251770-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101108/l4=/http://media.radiofrance-podcast.net/podcast09/10906-08.11.2010-ITEMA_20251770-0.mp3"
+              type="audio/mpeg" length="5052544"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1288960010829">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-05.11.2010-ITEMA_20251081-0.mp3">
+            tag:google.com,2005:reader/item/e618b64aa0905223
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 05.11.2010</title>
+        <published>2010-11-05T10:05:00Z</published>
+        <updated>2010-11-05T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-05.11.2010-ITEMA_20251081-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101105/l4=/http://media.radiofrance-podcast.net/podcast09/10906-05.11.2010-ITEMA_20251081-0.mp3"
+              type="audio/mpeg" length="5884032"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1288877501115">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-04.11.2010-ITEMA_20250892-0.mp3">
+            tag:google.com,2005:reader/item/f1c867559a72a4f8
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 04.11.2010</title>
+        <published>2010-11-04T10:05:00Z</published>
+        <updated>2010-11-04T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-04.11.2010-ITEMA_20250892-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101104/l4=/http://media.radiofrance-podcast.net/podcast09/10906-04.11.2010-ITEMA_20250892-0.mp3"
+              type="audio/mpeg" length="5673088"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <gr:likingUser>00354846103500127526</gr:likingUser>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1288786349855">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-03.11.2010-ITEMA_20250710-0.mp3">
+            tag:google.com,2005:reader/item/a12f339f984ef2fd
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 03.11.2010</title>
+        <published>2010-11-03T10:05:00Z</published>
+        <updated>2010-11-03T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-03.11.2010-ITEMA_20250710-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101103/l4=/http://media.radiofrance-podcast.net/podcast09/10906-03.11.2010-ITEMA_20250710-0.mp3"
+              type="audio/mpeg" length="7063680"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <gr:likingUser>15596853698718548450</gr:likingUser>
+        <gr:likingUser>00354846103500127526</gr:likingUser>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1288700409790">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-02.11.2010-ITEMA_20250527-0.mp3">
+            tag:google.com,2005:reader/item/69ad95d8ae339a8c
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 02.11.2010</title>
+        <published>2010-11-02T10:05:00Z</published>
+        <updated>2010-11-02T10:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-02.11.2010-ITEMA_20250527-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101102/l4=/http://media.radiofrance-podcast.net/podcast09/10906-02.11.2010-ITEMA_20250527-0.mp3"
+              type="audio/mpeg" length="6441088"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <gr:likingUser>00354846103500127526</gr:likingUser>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+    <entry gr:is-read-state-locked="true" gr:crawl-timestamp-msec="1288178138587">
+        <id gr:original-id="http://media.radiofrance-podcast.net/podcast09/10906-27.10.2010-ITEMA_20249563-0.mp3">
+            tag:google.com,2005:reader/item/3b610e9b3f925091
+        </id>
+        <category term="user/17296541569953545051/state/com.google/read" scheme="http://www.google.com/reader/"
+                  label="read"/>
+        <category term="user/17296541569953545051/state/com.google/reading-list" scheme="http://www.google.com/reader/"
+                  label="reading-list"/>
+        <category term="Comedy "/>
+        <title type="html">La chronique de Daniel Morin 27.10.2010</title>
+        <published>2010-10-27T09:05:00Z</published>
+        <updated>2010-10-27T09:05:00Z</updated>
+        <link rel="alternate"
+              href="http://media.radiofrance-podcast.net/podcast09/10906-27.10.2010-ITEMA_20249563-0.mp3"
+              type="text/html"/>
+        <link rel="related" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/"/>
+        <link rel="enclosure"
+              href="http://rf.proxycast.org/m/media/273073201426/c=divertissement/p=La+chronique+de+Daniel+Morin_10906/l3=20101027/l4=/http://media.radiofrance-podcast.net/podcast09/10906-27.10.2010-ITEMA_20249563-0.mp3"
+              type="audio/mpeg" length="6443136"/>
+        <summary xml:base="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="html">La chronique de Daniel
+            Morin. Site Internet : http://www.radiofrance.fr/franceinter/chro/danielmorin/
+        </summary>
+        <author>
+            <name>podcasting@radiofrance.com</name>
+        </author>
+        <gr:likingUser>14447742101351340086</gr:likingUser>
+        <source gr:stream-id="feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml">
+            <id>tag:google.com,2005:reader/feed/http://radiofrance-podcast.net/podcast09/rss_10906.xml</id>
+            <title type="html">La chronique de Daniel Morin</title>
+            <link rel="alternate" href="http://www.radiofrance.fr/franceinter/chro/danielmorin/" type="text/html"/>
+        </source>
+    </entry>
+</feed>
